@@ -21,6 +21,10 @@
    </div>
 </div>
 
+## Live Preview
+
+[View Live Site](https://energydrink-website-with-gsap.netlify.app/)
+
 ## Introduction
 
 Dive into creating a cutting-edge web experience designed for Awwwards recognition, with **GSAP (GreenSock Animation Platform)** at its core. This project demonstrates how to leverage GSAP's powerful animation capabilities to craft fluid transitions, captivating scroll effects, and dynamic UI interactions, combining it with React and Tailwind CSS for a truly immersive and visually stunning website.
